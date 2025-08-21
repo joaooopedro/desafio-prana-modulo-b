@@ -54,7 +54,7 @@ automação no Power BI ou Excel.
 
 ------------------------------------------------------------------------
 
-📌 **Resumo**: O dashboard foi construído dentro das possibilidades
+ **Resumo**: O dashboard foi construído dentro das possibilidades
 reais dos dados fornecidos, com destaque para o monitoramento dos itens
 abaixo do mínimo e a visão simplificada de movimentações. Limitações
 importantes foram documentadas e melhorias foram sugeridas para
